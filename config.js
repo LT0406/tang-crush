@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Nói chồng nghe coi :3',
     reply: 'Vì anh chồng là người thương em nhất quả đất <33333333',
     mess: 'Ỏ, bé đáng yêu thíaaaa 🥰. Yêu bé nhiều nhiều 😘😘',
-    messDesc: 'Nay mình phải celebrate thật to nha công chúa.',
+    messDesc: 'Nay mình phải celebrate thật to nha công chúa',
     btnAccept: 'Dạaaaaaaaa <3',
     messLink: 'https://www.youtube.com/watch?v=o_lN37OAJ9U' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
